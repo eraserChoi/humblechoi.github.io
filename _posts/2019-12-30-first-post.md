@@ -5,7 +5,7 @@ categories:
   - Blog
 tags:
   - Blog
-
+comments: true
 ---
 
 blog를 시작해보려고 합니다. 
